@@ -1,0 +1,36 @@
+Spring Boot:
+---------------
+Spring Boot JPA Rest app
+Spring Boot JPA MVC Theamlyf app
+
+Spring Boot Security Oauth2
+Actuators 
+
+Spring Boot With JMS --ActiveMQ
+Spring Boot With JMS -- Kafka
+
+Circuit Breaker Pattern using Hystrix 
+ Router and Filter –using Zuul
+
+Feign and Eureka briefing. 
+Client side load Balancing.
+
+
+
+
+Active MQ:
+----------------
+activemq-admin.bat start
+
+activemq start
+
+
+https://www.javainuse.com/spring/boot_security_jdbc_authentication
+
+
+https://www.callicoder.com/spring-boot-security-oauth2-social-login-part-1/
+
+
+https://developer.okta.com/blog/2019/03/12/oauth2-spring-security-guide
+
+https://developer.okta.com/blog/2019/05/15/spring-boot-login-options

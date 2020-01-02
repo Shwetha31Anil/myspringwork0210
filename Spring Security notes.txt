@@ -1,0 +1,28 @@
+Spring Boot Security:
+-----------------------------
+basic-auth
+form-auth
+okta-oauth
+
+
+OAuth2:
+----------
+OAuth2 is an authorization framework that enables the application Web Security 
+to access the resources from the client. To build an OAuth2 application, we need to 
+focus on the Grant Type (Authorization code), Client ID and Client secret.
+
+
+JWT:
+---------
+JWT Token is a JSON Web Token, used to represent the claims secured between two parties.
+
+<dependency>
+   <groupId>org.springframework.security.oauth</groupId>
+   <artifactId>spring-security-oauth2</artifactId>
+</dependency>
+
+<dependency>
+   <groupId>org.springframework.security</groupId>
+   <artifactId>spring-security-jwt</artifactId>
+</dependency>
+
